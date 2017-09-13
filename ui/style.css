@@ -1,6 +1,5 @@
 body {
     font-family: lithograph-light;
-    font:back slash;
     background-color:grey;
     margin-top: 75px;
     margin-left:50px;
@@ -22,4 +21,3 @@ body {
 .img-medium {
     height: 200px;
 }
-
